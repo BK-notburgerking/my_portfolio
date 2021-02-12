@@ -35,3 +35,18 @@
     - Accordion 안의 내용 수정
     - 사진과 Accordion 사이를 띄우기 grid 1정도
 
+---
+
+### 2021년 2월 12일
+
+- navbar 수정
+  - History 항목 추가
+
+- About me 수정
+  - offset을 1씩 줘서 항목을 떨어트려놨음
+  - accordion의 항목들이 세로방향 정렬이 안됨 d-flex를 주면 화살표가 글 옆으로 당겨져 오는데 해결방법 찾아봐야함
+  - accordion항목 눌러서 늘어나면 옆에 사진이 들어가는 부분의 크기도 같이 늘어남 그냥 배경을 흰색으로 바꾸거나해서 티안나게 하면 될듯?
+- History 뼈대 제작
+- Portfolio 뼈대 제작
+  - card로 만듬
+- Contact 뼈대 제작
