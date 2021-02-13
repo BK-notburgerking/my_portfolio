@@ -6,6 +6,8 @@
   - 설 연휴동안 긴장감 유지
 - 일시
   - 2021년 2월 8일 ~ 2021년 2월 14일
+- 페이지 주소
+  - https://bk-notburgerking.github.io/my_portfolio/
 
 
 
